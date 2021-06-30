@@ -64,8 +64,8 @@ int status = WL_IDLE_STATUS;
 
 const char WEBSITE[] = "www.google.com";
 const int SSLPORT = 443;
-const char* MY_SSID = "GDog";
-const char* MY_PWD = "AnnaDillon69^^";
+const char* MY_SSID = "YOURSSID";
+const char* MY_PWD = "YOURWIFIPASSWORD";
 bool flag = false;
 
 WiFiSSLClient wifi; //Wifi connection
